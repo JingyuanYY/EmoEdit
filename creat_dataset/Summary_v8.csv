@@ -1,0 +1,213 @@
+3 words (v1),type(v1),emotion,centroid,type
+Decorated Christmas Trees  ,Object,amusement,0,object
+Ferris wheel,Object,amusement,4,object
+Butterflies on flowers  ,Object,amusement,5,object
+Colorful playground  ,Object,amusement,9,scene
+Roses,Object,amusement,10,object
+Colorful fireworks,Object,amusement,12,object
+Champagne glasses  ,Action,amusement,18,object
+Colorful balloons  ,Object,amusement,19,object
+Playful frog figurines,Action,amusement,21,object
+Hamsters,Action,amusement,22,object
+Gourmet food,Object,amusement,24,object
+Festive dessert ,Object,amusement,25,object
+Minnie Mouse,Action,amusement,26,object
+Snowman,Action,amusement,27,object
+Santa  ,Action,amusement,28,object
+Topped pizza,Object,amusement,31,object
+Disney character,Action,amusement,32,object
+Beer  ,Action,amusement,33,object
+Squirrels,Action,amusement,35,object
+Buffet-style food  ,Object,amusement,38,object
+Birds flying,Object,amusement,40,object
+Anime figure  ,Action,amusement,42,object
+Inflatable  ,Action,amusement,43,object
+Roller coasters  ,Action,amusement,44,object
+Playful Cats  ,Action,amusement,45,object
+Gingerbread cookies  ,Action,amusement,47,object
+Wrapped gifts,Object,amusement,50,object
+Carnival ,Action,amusement,51,scene
+Red berries ,Object,amusement,52,object
+Lion dance  ,Object,amusement,55,object
+Colorful hanging lanterns,Object,amusement,58,object
+Red poppy fields,Object,amusement,59,scene
+Colorful parrots  ,Object,amusement,60,object
+Pancakes,Object,amusement,61,object
+Colorful toy robots,Object,amusement,62,object
+Cartoon sculptures  ,Object,amusement,68,object
+Festive decorations  ,Object,amusement,71,object
+Popcorn  ,Object,amusement,74,object
+Birthday hat ,Action,amusement,77,object
+Sunrise ,Object,awe,0,scene
+Cathedral interiors,Object,awe,1,object
+Blooming flowers,Object,awe,2,object
+Mountains,Object,awe,4,scene
+Sunset,Object,awe,5,scene
+Northern lights ,Object,awe,6,scene
+Religious statue  ,Object,awe,7,object
+Snowy mountains  ,Action,awe,8,scene
+Snow-covered trees  ,Object,awe,10,object
+Rolling agricultural landscapes  ,Object,awe,11,scene
+Rainbow ,Object,awe,12,scene
+St. Paul's Cathedral  ,Object,awe,13,scene
+Canyon ,Object,awe,14,scene
+Cascading waterfall  ,Object,awe,16,scene
+Deer ,Object,awe,17,object
+Military jets  ,Action,awe,20,object
+Dragonfly,Object,awe,21,object
+Iconic fairy-tale castle  ,Object,awe,23,scene
+Japanese castle  ,Object,awe,24,scene
+Snow-covered volcanic mountains  ,Object,awe,25,scene
+Ancient Chinese Wall  ,Object,awe,28,scene
+Ocean cliff,Object,awe,29,scene
+Desert sand dunes  ,Object,awe,30,object
+Colorful hot-air balloons,Object,awe,32,object
+Flying seagulls ,Object,awe,33,object
+Hawks,Object,awe,37,object
+Eagles,Object,awe,39,object
+Cloudy sky ,Object,awe,41,scene
+Wedding ceremony  ,Action,awe,42,scene
+Flowing river  ,Object,awe,43,scene
+Lake,Object,awe,44,scene
+Ornate Hindu Temples  ,Object,awe,45,scene
+Giraffes ,Object,awe,46,object
+Tropical beach,Object,awe,47,scene
+Elephants ,Object,awe,55,object
+Mountain peaks  ,Object,awe,58,scene
+Cats relaxing  ,Object,contentment,1,object
+Dogs relaxing ,Object,contentment,2,object
+Blooming flowers,Object,contentment,4,object
+Books with flowers  ,Object,contentment,5,object
+Flowers in vase,Object,contentment,6,object
+Butterfly,Object,contentment,7,object
+Swans on water,Object,contentment,10,object
+Pandas,Object,contentment,11,object
+Artistic coffee designs,Object,contentment,12,object
+Couples in wedding  ,Action,contentment,13,object
+Decorated birthday cakes  ,Object,contentment,15,object
+Rabbits ,Object,contentment,16,object
+Storks on nest  ,Action,contentment,21,object
+Pigeons ,Action,contentment,25,object
+Cows,Object,contentment,27,object
+Antelopes  ,Object,contentment,28,object
+Berry-topped dessert cakes,Object,contentment,36,object
+Wildflowers,Object,contentment,38,object
+Flower arrangements  ,Object,contentment,42,object
+Colorful frosted cupcakes  ,Object,contentment,55,object
+Penguins ,Object,contentment,56,object
+Baby eating cake  ,Action,contentment,58,action
+Benches facing water  ,Object,contentment,59,scene
+Poolside lounge chairs  ,Object,contentment,60,object
+Surfing ocean waves  ,Action,excitement,0,action
+Softball game  ,Action,excitement,3,action
+Jet skiing,Action,excitement,4,action
+Flags  ,Action,excitement,5,object
+Group dance  ,Action,excitement,6,action
+Carnival parade  ,Object,excitement,8,action
+Singer  ,Action,excitement,9,object
+Football field  ,Action,excitement,10,scene
+Kids playing soccer  ,Action,excitement,11,action
+Guitars,Action,excitement,12,object
+Running dog,Action,excitement,13,action
+Horse jumping competition  ,Action,excitement,15,action
+Kayaking on water  ,Action,excitement,17,action
+Skateboarding mid-air tricks  ,Action,excitement,18,action
+Children playing superheroes  ,Action,excitement,19,action
+Joyful jumping,Facial Expression,excitement,20,action
+Snow skiing,Action,excitement,21,action
+Live concert  ,Action,excitement,22,scene
+Skydiving,Action,excitement,26,action
+Football players running  ,Action,excitement,27,action
+Dolphins jumping ocean,Object,excitement,29,action
+Marathon running event  ,Action,excitement,35,scene
+Martial arts competition ,Action,excitement,40,scene
+Motocross racing,Action,excitement,45,action
+Soccer players  ,Action,excitement,54,object
+Colorful balloons flying  ,Object,excitement,56,object
+Racing motorcycles  ,Action,excitement,60,action
+Orca jumping,Object,excitement,61,action
+DJ,Action,excitement,62,object
+Drag queen performance  ,Action,excitement,67,action
+Biking  ,Action,excitement,70,action
+Underwater diving ,Action,excitement,73,action
+Breakdancing,Action,excitement,76,action
+Tigers,Facial Expression,anger,0,object
+Cat yawning widely  ,Facial Expression,anger,2,action
+Fire ,Object,anger,3,object
+Bullfighting,Action,anger,5,action
+Boxing match  ,Action,anger,7,action
+Protesters,Action,anger,8,object
+Protesters holding signs,Action,anger,9,action
+Nighttime fire emergency  ,Object,anger,10,scene
+Dog barking fiercely,Object,anger,12,action
+Owls opening beaks,Facial Expression,anger,14,action
+Crocodiles ,Facial Expression,anger,15,object
+Birds Opening Beaks  ,Facial Expression,anger,16,action
+Men expressing frustration  ,Facial Expression,anger,18,facial expression
+Dinosaurs in nature  ,Object,anger,21,object
+Wolves,Object,anger,28,object
+Volcanic eruption night  ,Object,anger,29,scene
+Spiders on webs,Object,disgust,0,object
+Snakes on ground,Object,disgust,1,object
+Textured decay surfaces,Object,disgust,2,scene
+Urban waste accumulation  ,Object,disgust,4,object
+Graffiti-covered walls,Object,disgust,5,scene
+Caterpillars on plants  ,Object,disgust,6,object
+Splattered blood stains  ,Object,disgust,8,object
+Dirty toilet bowls  ,Object,disgust,10,object
+Discarded cigarette butts,Object,disgust,11,object
+Fungi on wood  ,Object,disgust,13,object
+Neglected sanitary facilities,Object,disgust,14,scene
+Hanging raw meat  ,Object,disgust,15,object
+Unappetizing tomato sauce  ,Object,disgust,19,object
+Destroying street,Object,disgust,20,scene
+Corroded metallic,Object,disgust,21,object
+Discarded cans,Object,disgust,22,object
+Decayed fish heads  ,Object,disgust,23,object
+Underwater worm,Object,disgust,25,object
+Squirming worm mass,Object,disgust,26,object
+Fried insect  ,Object,disgust,27,object
+Spiders clustering together  ,Object,disgust,28,object
+Creepy doll portraits  ,Object,fear,0,object
+Abandoned building interiors  ,Object,fear,1,scene
+Menacing pumpkin faces  ,Object,fear,2,object
+Spiders on webs  ,Object,fear,3,object
+Distorted facial sculptures ,Object,fear,4,object
+Zombie makeup,Object,fear,5,object
+Menacing clown face,Action,fear,6,object
+Mud mixed blood,Object,fear,8,object
+Dinosaur Skull close-up,Object,fear,9,object
+Scary vampire face,Object,fear,10,object
+Skulls,Object,fear,12,object
+Snakes,Object,fear,13,object
+Mysterious cave interiors  ,Object,fear,15,scene
+Menacing gas masks ,Object,fear,16,object
+Menacing robotic mask,Object,fear,17,object
+Bloodied costume horror,Object,fear,18,object
+Devastated urban landscape ,Object,fear,19,scene
+Creepy-crawly insect,Object,fear,20,object
+Ghost in forest ,Object,fear,22,object
+Dark ominous corridors,Object,fear,26,scene
+Shark attack,Object,fear,28,action
+Dark foreboding tunnels,Object,fear,29,scene
+Portraits with scars  ,Object,fear,30,object
+Scorpions ,Object,fear,31,object
+Mossy dark branches  ,Object,fear,32,object
+Horrific mask,Object,fear,34,object
+Glowing skull  ,Object,fear,35,object
+Gruesome bloody scene,Action,fear,39,object
+Nighttime cemetery scenes,Object,fear,40,scene
+Mourning angel statue  ,Object,sadness,0,object
+Melancholic dog  ,Object,sadness,2,object
+Devastated structure,Object,sadness,4,object
+Abandoned dilapidated interiors,Object,sadness,5,scene
+Uniform tombstones arranged  ,Object,sadness,7,object
+Memorial candle flowers  ,Object,sadness,9,object
+Wilted autumn leaves  ,Object,sadness,13,object
+Memorial candle glowing,Object,sadness,17,object
+Somber memorial stones,Object,sadness,18,object
+Soldiers carrying coffin  ,Object,sadness,20,action
+Wilted white daisies,Object,sadness,24,object
+Damaged car accidents  ,Object,sadness,28,scene
+Overgrown ancient ruins  ,Object,sadness,29,scene
+Tearful facial expressions ,Action,sadness,30,facial expression

@@ -1,0 +1,14 @@
+{
+  "name": "radial-cluster_2",
+  "version": "1.0.0",
+  "description": "https://observablehq.com/@d3/radial-cluster/2@245",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@observablehq/runtime": "^5.9.8"
+  }
+}

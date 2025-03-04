@@ -1,0 +1,529 @@
+3 words (v1),type(v1),3 words with emotion (v2),type(v2),Color/lighting (v2),emotion,centroid
+Decorated Christmas Trees  ,Object,Festive tree decorations,Object,Warm glowing ambiance,amusement,0
+Fashion runway models,Action,Vibrant fashion show,Object,"Bright, joyful ambiance",amusement,1
+Traditional dance performance  ,Action,Vibrant cultural performance  ,Object,"Bright, joyful illumination",amusement,2
+Medieval reenactment event,Action,Festive medieval reenactment  ,Object,"Bright, cheerful daylight",amusement,3
+Ferris wheel rides  ,Action,Joyful carnival ride,Object,"Bright, cheerful hues",amusement,4
+Butterflies on flowers  ,Object,Playful butterfly interactions  ,Object,"Vibrant, joyful hues",amusement,5
+Women in coral  ,Action,Joyful bridal gathering  ,Object,"Bright, cheerful hues",amusement,6
+Colorful vegetable dishes,Object,Colorful vegetable skewers,Object,"Bright, cheerful hues",amusement,7
+Babies smiling happily,Action,Joyful infant smiles  ,Facial Expression,"Bright, cheerful tones",amusement,8
+Colorful playground structures  ,Object,Spiraling playground slides  ,Object,"Bright, cheerful hues",amusement,9
+Pink blooming roses,Object,Vibrant floral display,Object,"Warm, cheerful hues",amusement,10
+Dogs happily playing  ,Action,Playful canine expressions  ,Object,"Warm, joyful hues",amusement,11
+Exploding colorful fireworks,Object,Vibrant fireworks display,Object,"Radiant, joyful illumination",amusement,12
+Castle Fireworks Display  ,Object,Vibrant fireworks display  ,Object,Warm glowing ambiance,amusement,13
+Giant observation wheels  ,Object,Giant observation wheel,Object,Warm sunset hues,amusement,14
+Birds on branches  ,Object,Playful bird poses  ,Object,Vibrant forest hues,amusement,15
+Babies celebrating Christmas  ,Action,Festive holiday attire,Object,Warm cheerful glow,amusement,16
+Horses Close-up Portraits  ,Object,Playful horse expressions  ,Action,"Bright, joyful ambiance",amusement,17
+Children playing outdoors  ,Action,Joyful outdoor play,Object,"Bright, warm hues",amusement,18
+Toasting champagne glasses  ,Action,Sparkling champagne toasts,Action,Warm golden hues,amusement,19
+Colorful floating balloons  ,Object,Colorful floating balloons  ,Object,"Bright, joyful hues",amusement,20
+Cosplay at convention  ,Action,Vibrant costume display  ,Object,"Bright, joyful hues",amusement,21
+Frogs holding cups,Action,Playful frog figurines,Object,"Warm, cheerful hues",amusement,22
+Hamsters eating food  ,Action,Playful rodent antics  ,Object,"Warm, inviting glow",amusement,23
+Family enjoying autumn  ,Action,Joyful family moments,Action,Warm golden hues,amusement,24
+Gourmet food presentation  ,Object,Playful culinary presentation  ,Object,Warm inviting hues,amusement,25
+Layered cake slices  ,Object,Festive dessert display,Object,Warm inviting glow,amusement,26
+Minnie Mouse greeting  ,Action,Joyful cartoon character,Object,"Bright, cheerful ambiance",amusement,27
+Characters performing outdoors  ,Action,Costumed character performance  ,Action,"Bright, cheerful ambiance",amusement,28
+Children playing snow  ,Action,Joyful winter play  ,Action,"Bright, cheerful illumination",amusement,29
+Santa with children  ,Action,Festive Santa visits  ,Object,Warm cheerful glow,amusement,30
+Seasonal pumpkin display  ,Object,Festive pumpkin display,Object,"Warm, inviting glow",amusement,31
+Colorful stage performance  ,Action,Vibrant stage performance,Action,"Radiant, joyful hues",amusement,32
+Various topped pizzas,Object,Festive gourmet pizzas,Object,Warm inviting glow,amusement,33
+Parade with character  ,Action,Costumed character parade  ,Object,"Bright, cheerful ambiance",amusement,34
+Toasting with beer  ,Action,Social drinking moments,Action,Warm inviting glow,amusement,35
+Frogs holding objects,Action,Playful frog figurines,Object,"Vibrant, joyful hues",amusement,36
+Paragliding above mountains  ,Action,Joyful aerial adventure  ,Action,"Bright, uplifting hues",amusement,37
+Squirrels eating nuts  ,Action,Playful squirrel antics,Object,"Warm, cheerful hues",amusement,38
+Girls twirling outdoors  ,Action,Playful outdoor twirling  ,Action,Warm sunlit hues,amusement,39
+Colorful flower bouquets,Object,Vibrant floral arrangements  ,Object,Warm cheerful hues,amusement,40
+Buffet-style food spread  ,Object,Festive food gathering  ,Object,Warm inviting glow,amusement,41
+Fresh vegetables displayed  ,Object,Vibrant tomato clusters  ,Object,Cheerful bright hues,amusement,42
+Birds flying sky  ,Object,Joyful soaring birds  ,Object,"Bright, uplifting blues",amusement,43
+Kids birthday party,Action,Joyful birthday party,Object,Warm festive glow,amusement,44
+Anime figure posing  ,Action,Playful action figure,Object,Warm cheerful tones,amusement,45
+Sliding on inflatable  ,Action,Joyful inflatable play,Object,"Bright, cheerful hues",amusement,46
+Roller coasters looping  ,Action,Thrilling roller coasters  ,Object,"Bright, vibrant hues",amusement,47
+Cats lying down  ,Action,Playful feline antics,Object,"Warm, inviting glow",amusement,48
+Outdoor belly dancing  ,Action,Joyful dance performance,Action,Vibrant festive brightness,amusement,49
+Decorating gingerbread cookies  ,Action,Festive cookie decoration  ,Object,Warm cheerful glow,amusement,50
+Dogs wearing costumes  ,Action,Festive canine attire,Object,"Bright, joyful ambiance",amusement,51
+Lying in grass  ,Action,Joyful outdoor relaxation,Action,"Bright, cheerful hues",amusement,52
+Ferris wheel piers,Action,Vibrant amusement rides,Object,"Bright, cheerful hues",amusement,53
+Colorful wrapped gifts,Object,Festive wrapped gifts,Object,"Bright, cheerful hues",amusement,54
+Carnival costume parade  ,Action,Festive costume parade,Object,Warm golden glow,amusement,55
+Red berries hanging  ,Object,Vibrant berry clusters,Object,"Cheerful, bright hues",amusement,56
+Decorated Christmas Tree,Object,Festive lighted tree,Object,Warm glowing ambiance,amusement,57
+Christmas family joy,Action,Joyful holiday moments,Action,Warm festive glow,amusement,58
+Baby enjoys swinging  ,Action,Joyful playground swings  ,Action,Bright sunny delight,amusement,59
+Elegant floral arrangements  ,Object,Festive floral arrangements,Object,"Warm, inviting hues",amusement,60
+Swans on water  ,Object,Graceful swan swimming,Object,Warm reflective waters,amusement,61
+Colorful lion dance  ,Object,Vibrant cultural performance,Object,Bright festive hues,amusement,62
+Seniors enjoying outdoors  ,Action,Joyful senior activities,Action,"Bright, warm tones",amusement,63
+Cats in Christmas  ,Object,Playful cats hiding  ,Object,Warm festive glow,amusement,64
+Colorful hanging lanterns,Object,Festive lantern display,Object,Warm glowing ambiance,amusement,65
+Red poppy fields,Object,Vibrant poppy fields  ,Object,"Cheerful, bright hues",amusement,66
+Colorful parrots perching  ,Object,Colorful parrot display  ,Object,Vibrant joyful hues,amusement,67
+Pouring syrup pancakes,Object,Delightful pancake stacks  ,Object,Warm inviting hues,amusement,68
+Toy robots standing  ,Object,Colorful toy robots,Object,"Bright, cheerful hues",amusement,69
+Halloween pumpkin fun  ,Action,Playful pumpkin props  ,Object,Warm festive glow,amusement,70
+Child enjoys ride  ,Action,Joyful amusement ride,Object,"Bright, cheerful hues",amusement,71
+Children riding carousel  ,Action,Joyful carousel rides  ,Object,"Warm, glowing ambiance",amusement,72
+Decorated Christmas Trees  ,Object,Festive decorated trees  ,Object,Warm twinkling lights,amusement,73
+Parachutes descending sky,Action,Thrilling aerial adventure  ,Action,"Bright, uplifting skies",amusement,74
+Children laughing joyfully  ,Action,Joyful childhood play,Action,"Warm, radiant smiles",amusement,75
+Giant cartoon sculptures  ,Object,Whimsical springy statue,Object,"Bright, cheerful hues",amusement,76
+Birds eating seeds  ,Object,Joyful bird feeding  ,Object,Vibrant festive hues,amusement,77
+Ferris wheel cabins  ,Object,Thrilling ferris ride,Object,"Bright, joyful ambiance",amusement,78
+Parasailing over ocean  ,Action,Thrilling aerial activities,Action,"Bright, joyful hues",amusement,79
+Hugging cartoon characters  ,Action,Playful character interaction,Action,"Bright, joyful ambiance",amusement,80
+Colorful Ferris wheels  ,Object,Vibrant Ferris wheels  ,Object,Radiant neon hues,amusement,81
+Festive holiday decorations  ,Object,Festive holiday decorations  ,Object,Warm cheerful glow,amusement,82
+Kids enjoying pool  ,Action,Joyful water play,Action,"Bright, cheerful hues",amusement,83
+Carnival dance performance  ,Action,Vibrant carnival dance,Action,Bright festive hues,amusement,84
+Fresh buttered popcorn  ,Object,Crunchy snack delight,Object,Warm golden hues,amusement,85
+Children playing indoors  ,Action,Playful indoor activities,Action,"Bright, cheerful ambiance",amusement,86
+Festive candle decoration  ,Object,Festive candle glow,Object,Warm inviting ambiance,amusement,87
+Birthday hat celebration  ,Action,Festive birthday toys,Object,"Bright, cheerful hues",amusement,88
+Sunrise ocean horizon  ,Object,Majestic sunrise view,Object,Warm golden hues,awe,0
+Gothic cathedral interiors  ,Object,Majestic cathedral interiors,Object,Warm glowing ambiance,awe,1
+Colorful blooming flowers,Object,Majestic floral display  ,Object,Warm radiant hues,awe,2
+Couples in nature  ,Action,Joyful wedding moments,Action,Warm golden hues,awe,3
+Mountainous scenic views  ,Object,Majestic mountain views  ,Object,Warm golden hues,awe,4
+"Sunset, lake, formations  ",Object,Majestic sunset reflections  ,Object,Warm glowing horizons,awe,5
+Mountainous scenic landscapes  ,Object,Majestic mountain vistas  ,Object,Vibrant sky contrast,awe,6
+Northern lights display  ,Object,Majestic northern lights  ,Object,Ethereal green glow,awe,7
+Religious statue procession  ,Object,Reverent religious iconography  ,Object,"Soft, ethereal glow",awe,8
+Climbing snowy mountains  ,Action,Majestic mountain climbing  ,Action,"Bright, icy brilliance",awe,9
+Pelicans standing water  ,Object,Majestic water birds,Object,Serene golden hues,awe,10
+Snow-covered winter trees  ,Object,Majestic winter landscape,Object,Radiant icy brilliance,awe,11
+Rolling agricultural landscapes  ,Object,Majestic natural vistas  ,Object,Warm radiant hues,awe,12
+Tranquil natural landscapes  ,Object,Majestic mountain vistas  ,Object,Serene golden illumination,awe,13
+Rainbow over landscape  ,Object,Majestic rainbow arches  ,Object,"Vibrant, contrasting hues",awe,14
+St. Paul's Cathedral  ,Object,Majestic architectural dome  ,Object,Soft twilight hues,awe,15
+Majestic canyon views  ,Object,Majestic rock formations,Object,Warm golden hues,awe,16
+Ancient temple ruins  ,Object,Majestic ancient temples  ,Object,Warm serene glow,awe,17
+Cascading waterfall rainbows  ,Object,Majestic waterfall cascade  ,Object,Radiant rainbow hues,awe,18
+Animals in grass  ,Object,Majestic wildlife presence  ,Object,Vibrant natural illumination,awe,19
+Babies looking curious  ,Facial Expression,Expressive infant faces  ,Facial Expression,"Soft, warm glow",awe,20
+Majestic European Castles,Object,Majestic fairy-tale castle  ,Object,"Ethereal, soft illumination",awe,21
+Military jets flying  ,Action,Majestic fighter jets,Object,Vivid sky contrast,awe,22
+Perched dragonfly closeup,Object,Majestic dragonfly perching  ,Object,Vibrant hues illuminate,awe,23
+Fountain rainbow display  ,Object,Majestic rainbow fountains  ,Object,"Vibrant, sunlit hues",awe,24
+Tigers in nature  ,Object,Majestic tiger presence  ,Object,Warm sunlight glow,awe,25
+Iconic fairy-tale castle  ,Object,Majestic fairy-tale castle  ,Object,Enchanting twilight glow,awe,26
+Japanese castle architecture  ,Object,Majestic castle architecture,Object,Soft daylight serenity,awe,27
+Snow-covered volcanic mountains  ,Object,Majestic mountain peaks  ,Object,Warm glowing hues,awe,28
+Green insects posing  ,Object,Majestic insect poses  ,Object,Vibrant green hues,awe,29
+Historic city skyline,Object,Majestic cityscape views,Object,"Vibrant, sunlit hues",awe,30
+Ancient Chinese Wall  ,Object,Majestic ancient architecture,Object,Warm golden hues,awe,31
+Ocean cliff view,Object,Majestic coastal cliffs,Object,Radiant turquoise waters,awe,32
+Desert sand dunes  ,Object,Majestic desert landscapes  ,Object,Warm golden hues,awe,33
+Paragliding over coast,Action,Majestic coastal gliding,Action,Vibrant azure serenity,awe,34
+Sunset behind bridge  ,Object,Majestic bridge views,Object,Warm sunset hues,awe,35
+Colorful hot-air balloons,Object,Majestic balloon ascent  ,Object,Vibrant sunset hues,awe,36
+Iconic mountain landscapes  ,Object,Majestic mountain vista  ,Object,Dramatic sunset hues,awe,37
+Seagulls on beach  ,Object,Serene shorebirds,Object,Golden sunset glow,awe,38
+Coastal castle ruins  ,Object,Majestic coastal ruins,Object,Moody dramatic skies,awe,39
+Colorful parrots perched  ,Object,Vibrant feathered display,Object,Vivid natural illumination,awe,40
+Seagulls on beach  ,Object,Majestic bird presence  ,Object,"Soft, serene glow",awe,41
+Sunset over roads  ,Object,Majestic sunset views  ,Object,Warm radiant hues,awe,42
+Hawks perched outdoors  ,Object,Majestic raptor gaze,Object,Warm sunlight hues,awe,43
+Glacial landscapes displayed  ,Object,Majestic glacier views,Object,"Cool, serene tones",awe,44
+Eagles in nature  ,Object,Majestic eagle flight,Object,Vivid sky contrast,awe,45
+Colorful autumn trees,Object,Majestic autumn foliage  ,Object,Warm golden glow,awe,46
+Cloudy sky horizon  ,Object,Infinite cloud expanse  ,Object,Warm sunset glow,awe,47
+Wedding ceremony indoors  ,Action,Majestic church interiors,Object,Warm golden hues,awe,48
+Ancient mountain ruins  ,Object,Majestic mountain ruins,Object,Dramatic sunlit contrasts,awe,49
+Flowing river landscapes  ,Object,Majestic river cascades  ,Object,"Soft, ethereal glow",awe,50
+Mountain lake views,Object,Majestic mountain vistas  ,Object,Serene blue hues,awe,51
+Ornate Hindu Temples  ,Object,Majestic architectural marvels,Object,"Warm, radiant hues",awe,52
+Giraffes in wilderness  ,Object,Majestic giraffe presence  ,Object,"Soft, golden hues",awe,53
+Tropical beach scenes,Object,Serene tropical paradise,Object,Vibrant azure tranquility,awe,54
+Squirrels climbing trees,Action,Majestic tree climbing  ,Action,Warm golden hues,awe,55
+Fireworks over castle  ,Object,Majestic fireworks display  ,Object,Vibrant nocturnal illumination,awe,56
+Coastal cliff views,Object,Majestic coastal cliffs  ,Object,Bright azure brilliance,awe,57
+Ornate church interiors  ,Object,Ornate religious interiors  ,Object,Warm golden illumination,awe,58
+Aerial canyon views  ,Object,Majestic canyon vistas  ,Object,Warm golden hues,awe,59
+Erupting geothermal geysers,Object,Majestic geothermal activity  ,Object,"Vibrant, ethereal glow",awe,60
+Monks performing rituals  ,Action,Reverent monastic gathering,Object,Warm golden hues,awe,61
+Mountainous forest views,Object,Majestic mountain views,Object,"Vibrant, awe-inspiring hues",awe,62
+Traditional wedding procession  ,Action,Ceremonial procession,Object,"Soft, muted tones",awe,63
+Coastal town cliffs  ,Object,Majestic coastal view,Object,Warm golden hues,awe,64
+"Sunset, palm trees  ",Object,Majestic sunset views  ,Object,Warm golden hues,awe,65
+Traditional wedding attire  ,Action,Majestic wedding attire,Object,"Soft, radiant hues",awe,66
+Elephants in nature  ,Object,Majestic elephant gatherings,Object,"Warm, golden hues",awe,67
+Bears in nature  ,Object,Majestic bear presence  ,Object,Warm sunlight glow,awe,68
+Tropical island waters,Object,Majestic limestone cliffs  ,Object,Serene blue waters,awe,69
+Oceanic cliff views,Object,Majestic coastal cliffs,Object,Moody oceanic hues,awe,70
+Majestic mountain peaks  ,Object,Majestic mountain peaks  ,Object,Warm golden hues,awe,71
+Goats in nature  ,Object,Majestic mountain goats,Object,Vibrant natural illumination,awe,72
+Birds flying silhouetted  ,Object,Majestic flight display,Object,Warm sunset hues,awe,73
+"Sunset, Trees, Sky  ",Object,Majestic sunrise silhouettes  ,Object,Warm glowing hues,awe,74
+Wedding couple standing,Action,Majestic wedding ceremony,Object,"Soft, ethereal glow",awe,75
+Majestic mountain landscapes  ,Object,Majestic mountain views  ,Object,Vibrant natural illumination,awe,76
+Rolling green hills,Object,Expansive landscape views,Object,"Soft, natural illumination",awe,77
+Birds standing still  ,Object,Majestic bird presence  ,Object,Golden hour glow,awe,78
+Trees in landscapes  ,Object,Majestic landscape views  ,Object,Warm golden hues,awe,79
+Lone tree fields  ,Object,Expansive rural landscapes,Object,Warm golden hues,awe,80
+Birds on branches  ,Object,Majestic bird perching  ,Object,Vibrant natural illumination,awe,81
+Exploding night fireworks  ,Object,Spectacular firework display,Object,Vibrant night illumination,awe,82
+Mother bonding child  ,Action,Loving maternal embrace  ,Action,Warm soothing glow,contentment,0
+Cats relaxing comfortably  ,Object,Relaxed feline posture  ,Object,"Soft, warm glow",contentment,1
+Dogs in grass  ,Object,Joyful canine expressions,Facial Expression,Warm sunlit hues,contentment,2
+Babies smiling happily  ,Facial Expression,Joyful infant smiles  ,Facial Expression,Warm glowing hues,contentment,3
+Colorful blooming flowers,Object,Serene floral display  ,Object,"Soft, warm glow",contentment,4
+Books with flowers  ,Object,Relaxed reading moments,Object,"Soft, warm hues",contentment,5
+Flowers on table,Object,Serene floral arrangement  ,Object,Soft natural light,contentment,6
+Insects on flowers,Object,Serene pollination,Object,"Warm, soft illumination",contentment,7
+Giraffes among trees  ,Object,Serene grazing giraffes,Object,Soft natural hues,contentment,8
+Colorful garden flowers  ,Object,Serene floral display,Object,Warm golden hues,contentment,9
+Swans on water  ,Object,Serene water birds,Object,Soft reflective hues,contentment,10
+Pandas resting peacefully,Object,Relaxed panda resting  ,Object,Soft natural hues,contentment,11
+Artistic coffee designs,Object,Soothing coffee art,Object,Warm creamy hues,contentment,12
+Couples in wedding  ,Action,Serene wedding moments  ,Action,Soft natural glow,contentment,13
+Autumn leaves glow,Object,Serene autumn scenery  ,Object,Warm golden hues,contentment,14
+Decorated birthday cakes  ,Object,Indulgent dessert display,Object,Warm inviting glow,contentment,15
+Woman enjoying flowers,Action,Serene floral embrace  ,Action,Warm golden hues,contentment,16
+Rabbits in nature  ,Object,Serene rabbit scenes,Object,Soft natural glow,contentment,17
+Couples sharing affection  ,Action,Intimate couple moments,Action,Warm golden hues,contentment,18
+Using digital devices,Action,Serene digital interaction,Action,Soft warm glow,contentment,19
+Seniors sharing moments  ,Action,Gentle companionship,Action,Warm soothing tones,contentment,20
+Beach sunset scenes,Object,Serene beach scenes,Object,Warm sunset hues,contentment,21
+Dogs resting together  ,Object,Relaxed canine companionship  ,Object,"Soft, warm hues",contentment,22
+Storks on nest  ,Action,Serene nesting storks,Object,Calm blue backdrop,contentment,23
+Monkeys grooming together  ,Action,Gentle primate interaction,Object,Soft natural hues,contentment,24
+Tigers resting outdoors  ,Action,Relaxed feline posture  ,Object,Soft natural hues,contentment,25
+Pregnant women smiling  ,Action,Serene maternal moments  ,Object,"Soft, warm glow",contentment,26
+Tranquil water reflections  ,Object,Serene water scenes,Object,Soft natural light,contentment,27
+Pigeons walking outdoors  ,Action,Serene bird presence,Object,Soft natural glow,contentment,28
+Couple embracing pregnancy  ,Action,Tender couple embrace,Action,Warm soothing hues,contentment,29
+Cows in field  ,Object,Serene pastoral scene,Object,Warm golden hues,contentment,30
+Antelopes in grass  ,Object,Serene animal bonding  ,Object,Warm golden hues,contentment,31
+Owls in nature  ,Object,Serene owl gaze,Object,Warm golden hues,contentment,32
+Birds on branches  ,Object,Serene bird perching  ,Object,Soft natural hues,contentment,33
+Deer in nature  ,Object,Serene wildlife presence  ,Object,"Warm, soft glow",contentment,34
+Women facing water  ,Action,Serene waterfront solitude,Object,Warm sunset glow,contentment,35
+Perching blue birds,Object,Serene bird perching  ,Object,Soft natural hues,contentment,36
+Couples sharing affection  ,Action,Gentle affectionate embrace,Action,Warm soothing tones,contentment,37
+Woman holding flowers,Action,Serene floral embrace,Action,Soft golden glow,contentment,38
+Reading comfortably indoors  ,Action,Cozy reading moments,Action,Warm inviting glow,contentment,39
+Couples sharing moments,Action,Intimate shared moments,Action,Warm soothing tones,contentment,40
+Woman relaxing outdoors  ,Action,Relaxed outdoor sitting,Action,Warm golden hues,contentment,41
+Berry-topped dessert cakes,Object,Delightful berry desserts  ,Object,Warm inviting glow,contentment,42
+Elephants walking together  ,Action,Serene elephant gatherings  ,Object,"Warm, soft hues",contentment,43
+Colorful wildflowers blooming,Object,Serene floral abundance,Object,"Warm, soothing hues",contentment,44
+Children smiling together,Action,Joyful youthful smiles,Facial Expression,Warm inviting glow,contentment,45
+Women interacting plants  ,Action,Serene plant interaction,Action,Soft natural glow,contentment,46
+Bridesmaids holding flowers,Action,Joyful bridal procession,Action,"Soft, warm hues",contentment,47
+Colorful flower arrangements  ,Object,Serene floral arrangements  ,Object,Warm soothing hues,contentment,48
+Babies sleeping peacefully,Facial Expression,Peaceful sleeping babies,Action,Soft warm hues,contentment,49
+Squirrels on wood,Object,Serene squirrel moments,Object,Warm golden hues,contentment,50
+Pheasants in fields,Object,Majestic strutting,Action,Warm sunlight hues,contentment,51
+German Shepherd lying  ,Action,Relaxed canine poses  ,Object,"Warm, soothing hues",contentment,52
+Horses grazing peacefully  ,Object,Serene grazing horses  ,Object,"Soft, warm hues",contentment,53
+Girl reading outdoors  ,Action,Serene reading moments,Action,Warm sunlight ambiance,contentment,54
+Beach relaxation setup  ,Object,Relaxing beachside lounging  ,Action,Serene turquoise brightness,contentment,55
+Family outdoor gathering  ,Object,Gentle familial embrace  ,Action,Soft natural light,contentment,56
+Roosters standing proudly,Object,Serene chicken stances,Object,"Warm, soothing hues",contentment,57
+Seals resting peacefully  ,Object,Serene seal relaxation  ,Object,Soft natural glow,contentment,58
+Celebrating birthday cakes,Action,Celebratory birthday cakes,Object,Warm glowing candles,contentment,59
+Dogs on beach  ,Action,Relaxed beach stroll,Action,Warm serene glow,contentment,60
+Alpacas facing forward  ,Action,Serene alpaca gaze,Object,Warm golden hues,contentment,61
+Colorful frosted cupcakes  ,Object,Delightful cupcake display  ,Object,"Soft, warm glow",contentment,62
+Penguins in nature  ,Object,Joyful penguin poses,Object,Warm serene glow,contentment,63
+Babies sleeping peacefully  ,Action,Peaceful sleeping children,Action,Soft warm hues,contentment,64
+Babies wearing Santa  ,Action,Festive infant smiles  ,Facial Expression,Warm holiday glow,contentment,65
+Couples celebrating wedding  ,Action,Joyful wedding couples,Object,Soft natural light,contentment,66
+Robins on branches  ,Action,Serene perched robin,Object,Warm glowing ambiance,contentment,67
+Baby eating cake  ,Action,Joyful cake exploration,Action,Warm golden hues,contentment,68
+Benches facing water  ,Object,Serene seaside bench  ,Object,Soft tranquil hues,contentment,69
+Poolside lounge chairs  ,Object,Relaxing poolside lounging  ,Action,Warm serene glow,contentment,70
+Father holding baby  ,Action,Gentle fatherly embrace  ,Action,Warm soothing tones,contentment,71
+Surfing ocean waves  ,Action,Dynamic surfing action,Action,Vibrant ocean hues,excitement,0
+People expressing joy,Facial Expression,Joyful group interactions,Action,"Bright, vibrant tones",excitement,1
+Beach soccer playing  ,Action,Energetic beach soccer,Action,Vibrant sunny ambiance,excitement,2
+Playing softball game  ,Action,Dynamic softball play,Action,"Vibrant, energizing hues",excitement,3
+Jet skiing action  ,Action,Dynamic water-sport,Action,"Bright, energetic contrast",excitement,4
+Celebrating with flags  ,Action,Jubilant crowd celebration,Action,"Vibrant, sunlit hues",excitement,5
+Group dance performance  ,Action,Energetic group dance,Action,"Bright, vibrant sunlight",excitement,6
+Man holding glowsticks  ,Action,Joyful rainbow attire,Object,"Vibrant, cheerful hues",excitement,7
+Carnival costume parade  ,Object,Vibrant carnival costumes,Object,"Bright, festive hues",excitement,8
+Singer performing live  ,Action,Energetic stage performance,Action,Vibrant concert illumination,excitement,9
+Kicking football field  ,Action,Dynamic athletic action,Action,"Bright, vivid contrast",excitement,10
+Toddlers smiling joyfully,Facial Expression,Joyful youthful expressions  ,Facial Expression,"Vibrant, warm hues",excitement,11
+Kids playing soccer  ,Action,Energetic soccer play,Action,"Bright, vibrant hues",excitement,12
+Women playing guitars,Action,Energetic live performance  ,Action,Vibrant stage lights,excitement,13
+Dogs in motion  ,Action,Energetic water play,Action,"Bright, vivid hues",excitement,14
+Playing outdoor soccer  ,Action,Intense soccer action,Action,Vibrant sunny ambiance,excitement,15
+Singer performing live  ,Action,Energetic stage performance  ,Action,Vibrant spotlight ambiance,excitement,16
+Rafting turbulent water  ,Action,Thrilling river adventure,Action,"Bright, dynamic contrast",excitement,17
+Horse jumping competition  ,Action,Dynamic equestrian action  ,Action,"Vibrant, contrasting hues",excitement,18
+Singer performing live,Action,Energetic stage performance,Action,Warm golden ambiance,excitement,19
+Kicking football game  ,Action,Dynamic athletic action,Action,Vibrant sunny contrast,excitement,20
+Football game action  ,Action,Dynamic football action,Action,Vibrant evening hues,excitement,21
+Hiking desert rocks  ,Action,Energetic outdoor activity,Action,Vibrant sunny ambiance,excitement,22
+Kayaking on water  ,Action,Energetic kayaking adventure  ,Action,"Bright, sunny ambiance",excitement,23
+Skateboarding mid-air tricks  ,Action,Aerial skate stunts,Action,Overcast vibrant contrast,excitement,24
+Children playing superheroes  ,Action,Jubilant superhero poses  ,Action,"Vibrant, sunlit hues",excitement,25
+Joyful jumping silhouettes,Facial Expression,Joyful aerial leaps,Action,Vibrant sunset silhouettes,excitement,26
+Winter sports action  ,Action,Dynamic aerial maneuvers,Action,"Vivid, sunlit contrasts",excitement,27
+Performing live concert  ,Action,Energetic stage performance,Action,Vibrant concert illumination,excitement,28
+Families enjoying outdoors  ,Action,Joyful outdoor play,Action,Warm golden hues,excitement,29
+Stilt walking performer  ,Action,Joyful street performance,Action,Vibrant daylight hues,excitement,30
+Football tackling action,Action,Intense athletic action,Action,Vibrant dynamic contrast,excitement,31
+Skydiving with instructor,Action,Thrilling skydiving action,Action,Vivid blue exhilaration,excitement,32
+Football players running  ,Action,Energetic football play,Action,"Bright, dynamic contrast",excitement,33
+Playing soccer night,Action,Intense soccer match,Action,Vibrant nighttime glow,excitement,34
+Sledding on snow  ,Action,Joyful winter activities,Action,"Bright, contrasting whites",excitement,35
+Dolphins swimming ocean  ,Object,Energetic marine leaps,Object,Vibrant aquatic hues,excitement,36
+Pitcher throwing baseball  ,Action,Dynamic pitching action  ,Action,"Vibrant, sunlit contrast",excitement,37
+Singing outdoor concert  ,Object,Energetic stage performance,Action,"Bright, vibrant daylight",excitement,38
+Intense fighting action,Action,Intense combat action,Action,Dramatic spotlight contrast,excitement,39
+Guitarists performing live  ,Action,Energetic guitar performance,Action,Vibrant stage illumination,excitement,40
+Men singing passionately  ,Action,Energetic vocal performance,Action,Vibrant stage illumination,excitement,41
+Rugby tackling action  ,Action,Intense rugby action,Action,Vibrant dynamic contrast,excitement,42
+Marathon running event  ,Action,Energetic marathon runners  ,Object,Warm golden hues,excitement,43
+Concert crowd celebrating  ,Object,Energetic crowd celebration  ,Object,Vibrant warm glow,excitement,44
+Kayaking in rapids,Action,Intense kayaking action,Action,"Vivid, contrasting brightness",excitement,45
+Mountain biking competition  ,Action,Intense cycling action,Action,"Vibrant, dynamic contrast",excitement,46
+Mountain biking action  ,Action,Dynamic biking action,Action,Vibrant sky contrast,excitement,47
+Roller Coaster Ride  ,Action,Thrilling rollercoaster ride,Action,Vibrant sky backdrop,excitement,48
+Aerial silk performance  ,Action,Aerial silk performance,Action,"Vivid contrasts, dramatic shadows",excitement,49
+Joyful shopping spree  ,Object,Joyful shopping spree,Object,"Bright, vibrant hues",excitement,50
+Guitarist performing live  ,Action,Energetic musical performance,Action,Vibrant stage illumination,excitement,51
+Martial arts training  ,Action,Dynamic martial arts,Action,Vibrant contrasting hues,excitement,52
+Playing soccer match  ,Action,Dynamic soccer action,Action,"Bright, vivid contrast",excitement,53
+Kids playing water  ,Action,Joyful water play  ,Action,"Bright, vibrant hues",excitement,54
+Singing on stage,Action,Energetic stage performance,Action,Vibrant colorful backdrop,excitement,55
+People enjoying party  ,Object,Joyful group poses,Object,Vibrant nightclub ambiance,excitement,56
+Woman giving speech  ,Object,Energetic public speaking,Action,Vibrant red excitement,excitement,57
+Guitarist performing live  ,Action,Energetic guitar performance,Action,Vibrant stage illumination,excitement,58
+Rugby players running  ,Action,Dynamic rugby action,Action,"Vibrant, contrasting hues",excitement,59
+Motocross racing action,Action,Intense motocross action,Action,"Vibrant, sunlit excitement",excitement,60
+Pitching baseball game  ,Action,Dynamic pitching action,Action,"Bright, vibrant contrast",excitement,61
+Climbing snowy mountains  ,Action,Thrilling mountain climbing,Action,"Bright, icy contrast",excitement,62
+Running in rain  ,Action,Energetic group run,Object,"Dim, misty excitement",excitement,63
+Dance performance stage  ,Action,Energetic dance performance,Action,Warm vibrant hues,excitement,64
+Rodeo action scenes,Action,Dynamic rodeo action,Action,"Vibrant, sunlit contrasts",excitement,65
+Outdoor adventure activities,Action,Thrilling aerial adventure  ,Action,"Vibrant, dynamic hues",excitement,66
+Dogs showing tongues  ,Facial Expression,Joyful canine expressions,Facial Expression,"Vibrant, contrasting hues",excitement,67
+Pride parade celebration  ,Object,Joyful parade march,Object,Vibrant sunny hues,excitement,68
+Soccer players competing  ,Action,Intense athletic competition  ,Object,Vibrant dynamic contrasts,excitement,69
+Celebrating on float  ,Action,Jubilant celebration scene,Object,"Bright, vibrant hues",excitement,70
+People enjoying party  ,Object,Joyful party moments,Action,Vibrant dynamic hues,excitement,71
+Singer performing live  ,Action,Energetic stage performance,Action,Warm radiant glow,excitement,72
+Supporting political campaign  ,Object,Jubilant crowd gathering,Object,"Bright, vibrant hues",excitement,73
+Colorful balloons flying  ,Object,Vibrant balloon ascent  ,Object,"Bright, uplifting hues",excitement,74
+Children smiling joyfully,Facial Expression,Joyful youthful energy,Action,"Vibrant, warm hues",excitement,75
+Christmas-themed toddler portraits  ,Facial Expression,Joyful holiday celebration,Action,Warm festive glow,excitement,76
+Dancing in sunglasses  ,Action,Joyful dance celebration,Action,Vibrant sunny hues,excitement,77
+Singers performing live  ,Action,Energetic stage performance,Action,Vibrant purple illumination,excitement,78
+Splashing water fun,Action,Joyful water play,Action,"Bright, sunlit splashes",excitement,79
+Racing motorcycles speedily  ,Action,Intense racing action,Action,Vibrant dynamic contrasts,excitement,80
+Orca performing jumps  ,Object,Dynamic aquatic performance,Action,Vibrant blue excitement,excitement,81
+DJ performing live  ,Action,Energetic club scene,Object,Vibrant neon lights,excitement,82
+Friends enjoying outdoors  ,Action,Joyful group celebration  ,Object,"Bright, vibrant hues",excitement,83
+Choir performing onstage  ,Action,Energetic group performance,Action,Vibrant blue backdrop,excitement,84
+Group singing event  ,Action,Energetic group singing,Action,"Bright, vibrant hues",excitement,85
+Cheerleader performing routine  ,Action,Energetic cheerleading performance,Action,"Bright, vibrant ambiance",excitement,86
+Performing live music,Action,Energetic stage performance,Action,Vibrant spotlight ambiance,excitement,87
+Soccer player running  ,Action,Dynamic soccer action,Action,"Vibrant, energizing hues",excitement,88
+Singing on stage  ,Action,Energetic stage performance  ,Action,Vibrant red excitement,excitement,89
+Singing on stage,Action,Joyful stage performance,Action,Vibrant colorful illumination,excitement,90
+Drag queen performance  ,Action,Vibrant performance attire,Object,"Bright, dynamic contrasts",excitement,91
+Pride parade celebration  ,Action,Jubilant street parade,Object,Vibrant sunny ambiance,excitement,92
+Soldiers running track  ,Action,Energetic sprinting competition,Action,Vibrant dynamic hues,excitement,93
+Baseball game action  ,Action,Intense baseball action,Action,Vibrant sunny ambiance,excitement,94
+Mountain biking action  ,Action,Thrilling mountain biking  ,Action,"Vibrant, sunlit landscapes",excitement,95
+Guitarists performing live  ,Action,Energetic guitar performance,Action,Vibrant stage illumination,excitement,96
+Kicking rugby ball  ,Action,Dynamic kicking action,Action,"Vibrant, contrasting hues",excitement,97
+Singer performing live  ,Action,Energetic stage performance,Action,Vibrant blue ambiance,excitement,98
+Celebrating Pride Parade,Object,Joyful group celebration,Action,Vibrant sunny ambiance,excitement,99
+Dancing in street  ,Action,Joyful street dance,Action,Vibrant daylight hues,excitement,100
+Underwater diving activity  ,Action,Thrilling underwater adventure  ,Action,Vibrant blue excitement,excitement,101
+Kayak polo competition  ,Action,Intense kayak competition,Action,Warm sunset glow,excitement,102
+Man singing passionately  ,Action,Energetic stage performance,Action,"Vibrant, dynamic hues",excitement,103
+Children playing seaside  ,Object,Joyful beach play,Action,"Bright, vibrant hues",excitement,104
+Singing on float  ,Action,Vibrant performance excitement,Action,"Bright, festive hues",excitement,105
+Urban dance performance  ,Action,Dynamic breakdancing moves,Action,Vibrant contrasted scenes,excitement,106
+Guitarist performing live  ,Action,Energetic musical performance,Action,Vibrant stage lights,excitement,107
+Colorful festival celebration  ,Action,Joyful color splash,Action,Vibrant festive hues,excitement,108
+Women performing onstage,Action,Energetic stage performance,Action,Vibrant festive ambiance,excitement,109
+Soldiers performing stunts  ,Action,Dynamic acrobatic display,Action,"Vibrant, sunlit ambiance",excitement,110
+Singer performing live  ,Action,Energetic stage performance,Action,Vibrant spotlight ambiance,excitement,111
+Soccer match playing  ,Action,Dynamic soccer action,Action,"Vibrant, sunlit hues",excitement,112
+Animals yawning widely  ,Facial Expression,Fierce animal roar,Object,Dark intense shadows,anger,0
+Expressive facial emotions,Facial Expression,Intense facial expressions  ,Facial Expression,"Dark, dramatic contrasts",anger,1
+Cats yawning widely  ,Facial Expression,Fierce feline yawns,Object,"Stark, contrasting shadows",anger,2
+Intense fire burning  ,Object,Intense fiery blaze,Object,Warm aggressive glow,anger,3
+Forest fire blazing  ,Object,Fierce forest fires  ,Object,Intense fiery glow,anger,4
+Bullfighting action captured,Action,Intense bull confrontation,Action,"Stark, contrasting hues",anger,5
+Dogs playing together  ,Action,Aggressive canine interaction  ,Object,"Dark, ominous tones",anger,6
+Boxing match competition  ,Action,Intense boxing match,Action,Stark contrast lighting,anger,7
+Protesters on vehicle  ,Action,Intense protest scene,Object,"Dark, overcast mood",anger,8
+Protesters holding signs,Action,Protestor-held signs,Object,Stark contrast lighting,anger,9
+Nighttime fire emergency  ,Object,Intense fiery destruction,Object,Dark ominous glow,anger,10
+Explosive fire display  ,Object,Explosive fiery display,Object,Intense orange glow,anger,11
+Dog barking outdoors  ,Object,Aggressive canine posture  ,Object,Harsh sunlight glare,anger,12
+Building fire disaster,Object,Fiery building destruction,Object,Dark ominous glow,anger,13
+Cars on fire  ,Object,Fiery vehicle destruction,Object,Intense orange blaze,anger,14
+Owls opening beaks,Facial Expression,Fierce avian expressions  ,Object,"Dark, intense hues",anger,15
+Protesting with signs,Action,Furious group protest  ,Action,"Dark, ominous tones",anger,16
+Crocodiles opening mouths  ,Facial Expression,Fierce crocodile roar,Object,"Harsh, glaring sunlight",anger,17
+Birds Opening Beaks  ,Facial Expression,Aggressive beak display,Object,Stark contrast lighting,anger,18
+Zombie costume portrayal  ,Object,Aggressive zombie portrayal  ,Object,Dark ominous tones,anger,19
+Men expressing frustration  ,Facial Expression,Frustrated head-grabbing,Action,"Stark, intense contrast",anger,20
+Urban fire scenes,Object,Fiery urban chaos,Object,"Dark, ominous glow",anger,21
+Tiger cubs growling  ,Facial Expression,Fierce animal snarl  ,Object,Dark intense hues,anger,22
+Firefighting in fields  ,Object,Intense fire control,Object,"Dark, ominous smoke",anger,23
+Protesters holding signs,Action,Protestor-held signs,Object,"Stark, contrasting hues",anger,24
+Dinosaurs in nature  ,Object,Fierce dinosaur roar,Object,"Intense, fiery glow",anger,25
+Buildings on fire,Object,Fiery urban destruction,Object,Dark smoky ambiance,anger,26
+Crowded concert moshing,Action,Intense crowd interaction,Object,"Dark, ominous tones",anger,27
+Protesting with microphone  ,Action,Fervent protest action,Action,"Stark, shadowed contrasts",anger,28
+Animals showing teeth  ,Facial Expression,Aggressive animal expression,Object,Harsh sunlight contrast,anger,29
+Burned urban cars,Action,Destructive urban chaos,Object,Ominous orange glow,anger,30
+Men performing drama  ,Object,Aggressive interpersonal conflict,Object,"Dark, shadowy ambiance",anger,31
+Burning dollar bills  ,Object,Fiery money destruction,Object,"Dark, ominous glow",anger,32
+Expressing intense emotion  ,Facial Expression,Aggressive facial expressions  ,Facial Expression,"Stark, contrasting backgrounds",anger,33
+Wolves in nature  ,Object,Snarling wolf aggression,Object,"Stark, harsh contrasts",anger,34
+Volcanic eruption night  ,Object,Fiery volcanic eruption,Object,Intense red glow,anger,35
+Bats showing teeth  ,Facial Expression,Aggressive bat snarl,Object,Dark ominous tones,anger,36
+Fist against red  ,Object,Clenched fist,Object,Dark ominous shadows,anger,37
+Books burning outdoors  ,Object,Fiery book destruction  ,Object,Intense orange glow,anger,38
+Spiders on webs  ,Object,Gruesome spider capture,Object,"Dim, eerie glow",disgust,0
+Snakes on ground  ,Object,Slithering reptilian menace  ,Object,"Dull, shadowy tones",disgust,1
+Textured decay surfaces  ,Object,Decaying metallic surfaces  ,Object,"Dull, murky tones",disgust,2
+Marine life close-up  ,Object,Unsettling marine creatures,Object,"Dim, eerie illumination",disgust,3
+Urban waste accumulation  ,Object,Repulsive garbage piles  ,Object,"Dull, murky tones",disgust,4
+Graffiti-covered bathroom walls,Object,Graffiti-covered restroom,Object,"Dim, grimy ambiance",disgust,5
+Caterpillars on plants  ,Object,Hairy caterpillar presence,Object,Dull natural tones,disgust,6
+Flat marine invertebrates,Object,Slimy marine creatures,Object,Dark murky ambiance,disgust,7
+Splattered red stains  ,Object,Blood-stained fixtures  ,Object,Harsh white contrast,disgust,8
+Bananas with spots  ,Object,Rotting banana skins  ,Object,"Dull, shadowed hues",disgust,9
+Accumulated colorful waste  ,Object,Repulsive waste accumulation  ,Object,"Dull, grimy hues",disgust,10
+Dirty toilet bowls  ,Object,Filthy restroom conditions  ,Object,"Dim, unclean ambiance",disgust,11
+Discarded cigarette butts,Object,Discarded cigarette butts,Object,"Dull, murky tones",disgust,12
+Decaying carved pumpkins  ,Object,Decaying pumpkin faces  ,Object,"Dull, shadowy tones",disgust,13
+Fungi on wood  ,Object,Moldy fungal growth,Object,"Dull, murky shadows",disgust,14
+Indoor construction sites  ,Object,Neglected sanitary facilities  ,Object,"Dull, shadowy ambiance",disgust,15
+Hanging meat display  ,Object,Raw meat display  ,Object,"Dim, unsettling hues",disgust,16
+Decaying colorful apples  ,Object,Rotting fruit decay,Object,"Dull, murky shadows",disgust,17
+Snakes eating frogs,Object,Decaying snake carcasses  ,Object,"Dull, shadowed tones",disgust,18
+Decomposing rodent carcasses  ,Object,Decayed animal remains  ,Object,"Dull, muted tones",disgust,19
+Infected toenails displayed,Object,Infected toenail condition  ,Object,"Dim, unsettling glow",disgust,20
+Cooking tomato sauce  ,Object,Unappetizing food mess  ,Object,"Dull, murky hues",disgust,21
+Destroying street objects,Object,Chaotic debris scene,Object,"Dim, unsettling glow",disgust,22
+Corroded metallic objects,Object,Decayed mechanical parts,Object,"Dull, murky tones",disgust,23
+Discarded urban litter  ,Object,Decayed urban waste,Object,"Dull, grimy hues",disgust,24
+Fish heads beach  ,Object,grotesque fish remains,Object,"muted, eerie tones",disgust,25
+Discarded beverage bottles  ,Object,Cluttered waste accumulation  ,Object,"Dim, murky tones",disgust,26
+Marine life displayed  ,Object,Unsettling marine growths  ,Object,"Dim, eerie illumination",disgust,27
+Eating hot dogs,Action,grotesque sausage display,Object,stark monochrome contrast,disgust,28
+Worms in soil  ,Object,Squirming worm mass,Object,"Dull, murky shadows",disgust,29
+Fried insect food  ,Object,Unsettling insect cuisine,Object,"Harsh, glaring exposure",disgust,30
+Throat infection symptoms  ,Object,Unhealthy oral hygiene,Object,"Dim, unsettling glow",disgust,31
+Spiders clustering together  ,Object,Swarming insect cluster  ,Object,"Dim, murky ambiance",disgust,32
+Spilled white powder  ,Object,Unsettling spilled substance,Object,"Dull, murky shadows",disgust,33
+Insects building structures  ,Object,Cluttered insect nests  ,Object,"Dim, murky tones",disgust,34
+Creepy doll portraits  ,Object,Creepy haunted dolls  ,Object,Dark ominous shadows,fear,0
+Abandoned building interiors  ,Object,Abandoned eerie interiors,Object,Dark ominous shadows,fear,1
+Carved glowing pumpkins  ,Object,Menacing pumpkin faces  ,Object,Ominous orange glow,fear,2
+Spiders on webs  ,Object,Menacing spider presence  ,Object,Dark ominous shadows,fear,3
+Ancient sculpted faces  ,Object,Distorted facial sculptures  ,Object,Dark ominous shadows,fear,4
+Zombie makeup worn  ,Object,Gruesome facial expressions  ,Facial Expression,"Dark, ominous shadows",fear,5
+Menacing theatrical pose  ,Action,Menacing facial makeup  ,Object,"Dim, ominous lighting",fear,6
+Eye-focused artistic expression  ,Facial Expression,Disturbing facial expressions  ,Facial Expression,Dark ominous tones,fear,7
+Mud mixed berries  ,Object,"Dark, unsettling remains",Object,"Gloomy, shadowed hues",fear,8
+Dinosaur Skull Exhibits,Object,Menacing dinosaur jaws,Object,"Dark, ominous shadows",fear,9
+Scary vampire figures,Object,Menacing facial expressions  ,Facial Expression,Dark ominous shadows,fear,10
+Elaborate costume display,Object,Menacing costume display  ,Object,"Dim, shadowy ambiance",fear,11
+Skulls on display  ,Object,Chilling skeletal remains  ,Object,"Dim, ominous shadows",fear,12
+Snakes on display  ,Object,Menacing serpent gaze,Object,"Dark, ominous shadows",fear,13
+Miniature fantasy battle,Object,Menacing creature assembly,Object,"Dim, shadowy ambiance",fear,14
+Mysterious cave interiors  ,Object,Shadowy cave entrance  ,Object,"Dim, eerie glow",fear,15
+Gas mask portraits  ,Object,Menacing gas masks  ,Object,Dark ominous tones,fear,16
+Dramatic facial expressions  ,Facial Expression,Intense facial expressions  ,Facial Expression,Dark ominous shadows,fear,17
+Futuristic robot heads  ,Object,Menacing robotic mask,Object,Dimly lit ambiance,fear,18
+Insects on ground  ,Object,Distorted skeletal figures  ,Object,Dark ominous shadows,fear,19
+Bloody costume drama  ,Object,Bloodied costume horror,Object,Dark ominous backdrop,fear,20
+Disaster response activity  ,Object,Devastated urban landscape,Object,"Muted, smoky haze",fear,21
+Insects on surfaces  ,Object,Creepy-crawly creature,Object,"Stark, shadowy contrast",fear,22
+Fly-headed figures,Object,Menacing masked figure,Object,"Stark, shadowy contrasts",fear,23
+Scientist holding beaker  ,Action,Menacing masked figure,Object,Harsh shadow contrasts,fear,24
+Action-figure posing dramatically,Object,Menacing figure stance,Object,Stark shadow contrast,fear,25
+Ghostly figures forested  ,Object,Ghostly forest presence  ,Object,"Dim, eerie glow",fear,26
+Various firearms displayed  ,Object,Threatening arsenal display,Object,"Dim, ominous tones",fear,27
+Cats showing aggression,Action,Menacing feline expressions  ,Facial Expression,"Dark, ominous shadows",fear,28
+Feeding giant plant  ,Action,Menacing plant monster  ,Object,"Dim, eerie glow",fear,29
+Dark stone corridors  ,Object,Dark ominous corridors  ,Object,Dimly lit shadows,fear,30
+Moon through branches  ,Object,Ominous moonlit nights,Object,"Dark, eerie glow",fear,31
+Sharks attacking prey  ,Object,Menacing shark attack,Object,"Dark, ominous waters",fear,32
+Theatrical performance dancing,Action,Menacing masked figure,Object,Dark ominous shadows,fear,33
+Tunnels in nature  ,Object,Dark foreboding tunnels  ,Object,Gloomy shadowed ambiance,fear,34
+Portraits with scars  ,Object,Intense emotional expressions  ,Facial Expression,"Dark, ominous contrasts",fear,35
+Scorpions in nature  ,Object,Menacing scorpion posture  ,Object,Dark ominous shadows,fear,36
+Mossy forest branches  ,Object,Twisted root formations,Object,"Dark, ominous shadows",fear,37
+"Dark, dramatic scenes",Object,Gruesome injury scene,Object,Dark ominous shadows,fear,38
+Colorful theatrical mask  ,Object,Creepy masked figure  ,Object,Eerie blue illumination,fear,39
+Food-covered facial expressions  ,Facial Expression,grotesque facial expressions  ,Facial Expression,dark unsettling ambiance,fear,40
+Horrific mask collection,Object,grotesque horror masks,Object,"harsh, unsettling brightness",fear,41
+Glowing skull images  ,Object,Sinister skull imagery  ,Object,Ominous red glow,fear,42
+Red face paint  ,Object,Menacing facial paint  ,Object,"Dark, ominous shadows",fear,43
+Creature holding lights,Object,Menacing creature display,Object,Dark ominous glow,fear,44
+Alligators in water  ,Object,Menacing reptilian gaze,Object,"Dark, ominous shadows",fear,45
+Millipedes on ground  ,Object,Creepy-crawly insects,Object,Dimly lit scenes,fear,46
+Performing bloody surgery  ,Action,Gruesome bloody scene,Object,Dark ominous shadows,fear,47
+Nighttime cemetery scenes,Object,eerie cemetery scenes  ,Object,"dark, ominous shadows",fear,48
+Symmetrical abstract patterns,Object,Dark symmetrical patterns,Object,Muted ominous tones,fear,49
+Mourning angel statue  ,Object,Mourning angel statues  ,Object,"Dim, overcast ambiance",sadness,0
+Babies crying loudly  ,Facial Expression,Tearful infant expressions  ,Facial Expression,"Dim, muted tones",sadness,1
+Dogs resting peacefully  ,Object,Melancholic canine expressions  ,Object,"Dim, shadowed hues",sadness,2
+Covering own face  ,Action,Concealed facial expressions  ,Facial Expression,Monochrome somber tones,sadness,3
+Building destruction scenes,Object,Devastated structural remains,Object,"Muted, bleak tones",sadness,4
+Abandoned dilapidated interiors,Object,Decaying interior spaces  ,Object,"Dim, shadowy ambiance",sadness,5
+Wild canines resting  ,Object,Weary animal gazes,Object,Muted somber tones,sadness,6
+Abandoned indoor spaces  ,Object,Abandoned classroom decay,Object,Monochrome somber tones,sadness,7
+Uniform tombstones arranged  ,Object,somber memorial stones  ,Object,"muted, overcast ambiance",sadness,8
+Chimpanzees resting peacefully,Object,mournful primate expressions  ,Object,subdued gray tones,sadness,9
+Memorial candle displays  ,Object,Tearful memorial tributes,Object,"Dim, somber hues",sadness,10
+Polar bears resting  ,Object,Weary animal poses  ,Object,"Muted, somber tones",sadness,11
+Cemetery graves aligned  ,Object,Endless memorial rows  ,Object,Somber daylight tones,sadness,12
+Lions facing camera  ,Object,Weary lion gazes,Object,Muted somber tones,sadness,13
+Autumn leaves scattered  ,Object,Wilted autumn leaves  ,Object,"Muted, somber tones",sadness,14
+Decorated memorial graves  ,Object,somber memorial scenes,Object,"muted, overcast ambiance",sadness,15
+Ruined historical buildings  ,Object,Abandoned stone ruins,Object,Muted overcast tones,sadness,16
+Close-up horse portraits  ,Object,Drooping equine eyes,Object,Muted somber tones,sadness,17
+Candles glowing softly  ,Object,Mourning candlelight vigil,Object,Dim warm glow,sadness,18
+Ruined stone structures  ,Object,crumbling stone ruins  ,Object,muted gray tones,sadness,19
+Ruined stone buildings  ,Object,Decaying stone structures  ,Object,"Muted, somber tones",sadness,20
+Cemetery grave markers  ,Object,somber memorial stones  ,Object,muted evening hues,sadness,21
+Black-and-white portrait photography,Object,Downcast facial expressions  ,Facial Expression,Monochrome somber tones,sadness,22
+Historic cemetery monuments  ,Object,somber cemetery scenes  ,Object,muted gloomy ambiance,sadness,23
+Soldiers carrying coffin  ,Object,somber funeral procession,Object,"muted, overcast ambiance",sadness,24
+Cemetery graves outdoors  ,Object,somber cemetery scenes  ,Object,muted daylight tones,sadness,25
+Children serious expressions  ,Facial Expression,Tearful youthful expressions  ,Action,Muted somber tones,sadness,26
+Visiting cemetery graves  ,Object,Mourning cemetery visit,Object,"Dim, shadowed ambiance",sadness,27
+Dogs behind fences,Object,Caged canine expressions  ,Object,Muted sorrowful tones,sadness,28
+Newborns crying loudly,Action,Tearful newborn cries  ,Facial Expression,"Dim, soft lighting",sadness,29
+Cemetery tombstones outdoors  ,Object,toppled gravestones,Object,muted evening light,sadness,30
+Fathers comforting babies  ,Action,Tearful infant expressions  ,Action,"Dim, muted tones",sadness,31
+Flowers with dew,Object,Wilted white daisies,Object,"Dim, shadowed hues",sadness,32
+Cemetery stone structures  ,Object,somber cemetery scenes,Object,muted gray tones,sadness,33
+Classical draped sculptures  ,Object,Contemplative stone figures,Object,Muted gray tones,sadness,34
+Elderly woman pondering  ,Action,Tearful elderly expressions  ,Action,Dim monochrome tones,sadness,35
+Urban graffiti art,Object,abandoned urban graffiti,Object,dimly lit decay,sadness,36
+Elephant eye close-up  ,Object,Weary animal expressions  ,Object,"Muted, somber tones",sadness,37
+Damaged car accidents  ,Object,Damaged vehicle wreckage  ,Object,"Dull, shadowed hues",sadness,38
+Overgrown ancient ruins  ,Object,crumbling stone ruins,Object,muted green shadows,sadness,39
+Calico cats sitting  ,Object,melancholic feline expressions  ,Object,muted somber tones,sadness,40
+Woman touching fence,Action,Tearful facial expressions  ,Facial Expression,"Dim, shadowy ambiance",sadness,41
+Ruined concrete structures  ,Object,crumbling concrete structures  ,Object,"cold, shadowed ambiance",sadness,42
+Ancient brick towers  ,Object,crumbling church ruins  ,Object,muted earthy tones,sadness,43
+Santa holding child  ,Action,Tearful toddler moments  ,Action,"Dim, warm glow",sadness,44
+Memorial candle displays  ,Object,Memorial candle display,Object,"Dim, warm glow",sadness,45
+Cemetery tombstone structures  ,Object,somber cemetery scenes,,muted overcast ambiance,sadness,46
