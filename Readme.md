@@ -137,6 +137,22 @@ Table 2.  User preference study. The numbers indicate the percentage of particip
 
 </div>
 
+As shown in Fig.5, you can adjust the guidance scale to achieve different results.
+
+<p align="left">
+<img src="docs/extra-1.png" width="1200px"/>  
+<br>
+Fig 5. Ablation study on image guidance scale. EmoEdit can progressively edit an input image to different emotion polarities.
+</p>
+
+You can also combine [Composable Diffusion](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch) to achieve stylized image generation.
+
+<p align="left">
+<img src="docs/extra-2.png" width="1200px"/>  
+<br>
+Fig 6. Emotion adapter can be extended to stylized image generation, preserving style and evoking emotions with clear semantics.
+</p>
+
 ## Citation
 If you find this work useful, please kindly cite our paper:
 ```
