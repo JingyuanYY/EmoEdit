@@ -71,7 +71,8 @@ and diffusion loss. (b) Given a user-provided image, EmoEdit can modify the imag
 
 ### Training
 
-Since we have modified the structure of the training set, directly using our EmoEditSet may result in incompatibility with their dataset. You can adapt to different dataset structures by modifying how the `origin_image_path` variable is retrieved in the `scripts/dataset.py` file.
+We need [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/), 
+[MA5K](https://github.com/jshi31/T2ONet), and [Unsplash](https://github.com/unsplash/datasets) to fulfill EmoEditSet as origin images. Since we have modified the structure of their dataset, directly using our EmoEditSet may result in incompatibility. You can adapt to different dataset structures by modifying how the `origin_image_path` variable is retrieved in the `scripts/dataset.py` file.
 
 You need to update the model and dataset paths in the code to your own locations. I have marked all the potential spots requiring modification with `TODO` annotations to make it easier for you to identify and adjust them.
 
