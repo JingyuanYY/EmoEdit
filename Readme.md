@@ -13,8 +13,15 @@ Fig 1. Affective Image Manipulation with EmoEdit, which seeks to modify a user-p
 in viewers. Our method requires only emotion words as prompts, without necessitating detailed descriptions of the input or output image.
 </p>
 
-## Description
-Official implementation of our EmoEdit paper.
+## QuickStart
+Download EmoAdapter checkpoint and place it in the `checkpoints` folder.
+
+Modify model locations in the `test.py` file .
+```
+git clone https://github.com/JingyuanYY/EmoEdit.git
+cd EmoEdit
+python test.py
+```
 
 ## Construction of EmoEditSet
 <p align="left">
@@ -38,6 +45,7 @@ within each category, enabling us to construct Emotion Factor Trees with `emotio
 ### Data_construction
 First, we collected datasets from [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/), 
 [MA5K](https://github.com/jshi31/T2ONet), and [Unsplash](https://github.com/unsplash/datasets). 
+Following the guidance in the paper, we will first divide the dataset based on emotion scores with `TODO`.
 All images were center-cropped to a uniform size of 512×512. 
 Then, based on emotion factor trees, they were processed using the `data_construction/generate_image_LargeScale.py` script to generate new images, 
 followed by filtering with the `data_construction/split_image_threshold_aes_txt.py` script, resulting in the final EmoEditSet. 
@@ -54,6 +62,8 @@ and diffusion loss. (b) Given a user-provided image, EmoEdit can modify the imag
 </p>
 
 ### Training
+
+Since we have modified the structure of the training set, directly using our EmoEditSet may result in incompatibility with their dataset. You can adapt to different dataset structures by modifying how the `origin_image_path` variable is retrieved in the `scripts/dataset.py` file.
 
 You need to update the model and dataset paths in the code to your own locations. I have marked all the potential spots requiring modification with `TODO` annotations to make it easier for you to identify and adjust them.
 
