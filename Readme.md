@@ -13,10 +13,17 @@ Fig 1. Affective Image Manipulation with EmoEdit, which seeks to modify a user-p
 in viewers. Our method requires only emotion words as prompts, without necessitating detailed descriptions of the input or output image.
 </p>
 
-## QuickStart
-Download EmoAdapter checkpoint and place it in the `checkpoints` folder.
+## Preliminary
+You can download EmoEditSet, EmoEdit-inference-set, Q-Former checkpoint in [Dropbox](https://www.dropbox.com/scl/fo/xnw0bv4r228srka6zo9ek/AIBEnZIfU2AkbZyDo0kPrBs?rlkey=r7likmbhj6ud14xoyvjxbqmo0&st=dcdwu2i2&dl=0).
 
-Modify model locations in the `test.py` file .
+Other models like instructpix2pix, CLIP you can download from Huggingface.
+### Quick test (without training)
+All you need is Q-Former checkpoint, [InstructPix2Pix](https://huggingface.co/timbrooks/instruct-pix2pix) and [CLIP-ViT-L/14](https://huggingface.co/openai/clip-vit-large-patch14)
+
+## QuickStart
+Download EmoAdapter checkpoint and place it in the `checkpoint` folder.
+
+Modify models' location in the `test.py` file .
 ```
 git clone https://github.com/JingyuanYY/EmoEdit.git
 cd EmoEdit
@@ -45,9 +52,10 @@ within each category, enabling us to construct Emotion Factor Trees with `emotio
 ### Data_construction
 First, we collected datasets from [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/), 
 [MA5K](https://github.com/jshi31/T2ONet), and [Unsplash](https://github.com/unsplash/datasets). 
-Following the guidance in the paper, we will first divide the dataset based on emotion scores with `TODO`.
+Following the guidance in the paper, run the `division_data/compute_emo_score.py` file to calculate the emotion score for each image (note: update the dataset path accordingly).
+Then, run the `division_data/division_data.py` file to classify the images based on their emotion scores and save them into separate folders.
 All images were center-cropped to a uniform size of 512×512. 
-Then, based on emotion factor trees, they were processed using the `data_construction/generate_image_LargeScale.py` script to generate new images, 
+Based on emotion factor trees, they were processed using the `data_construction/generate_image_LargeScale.py` script to generate new images, 
 followed by filtering with the `data_construction/split_image_threshold_aes_txt.py` script, resulting in the final EmoEditSet. 
 Notably, this process utilized 8 NVIDIA 4090 GPUs and took over a week, 
 with the majority of the time spent on the filtering stage.
@@ -97,7 +105,7 @@ For files with args in their names, you can actually utilize the command line to
 Fig 4. Comparison with the state-of-the-art methods, where EmoEdit surpasses others on emotion fidelity and structure integrity.
 </p>
 
-### Quanlitative results
+### Quantitative results
 
 <div align="center">
      
