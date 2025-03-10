@@ -14,7 +14,7 @@ in viewers. Our method requires only emotion words as prompts, without necessita
 </p>
 
 ## Preliminary
-You can download EmoEditSet, EmoEdit-inference-set, Q-Former checkpoint in [Dropbox](https://www.dropbox.com/scl/fo/xnw0bv4r228srka6zo9ek/AIBEnZIfU2AkbZyDo0kPrBs?rlkey=r7likmbhj6ud14xoyvjxbqmo0&st=dcdwu2i2&dl=0).
+You can download EmoEditSet, EmoEdit-inference-set, EmoAdapter checkpoint in [Dropbox](https://www.dropbox.com/scl/fo/xnw0bv4r228srka6zo9ek/AIBEnZIfU2AkbZyDo0kPrBs?rlkey=r7likmbhj6ud14xoyvjxbqmo0&st=dcdwu2i2&dl=0).
 
 Other models like instructpix2pix, CLIP you can download from Huggingface.
 ### Quick test (without training)
