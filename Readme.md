@@ -18,7 +18,7 @@ You can download EmoEditSet, EmoEdit-inference-set, EmoAdapter checkpoint in [Dr
 
 Other models like instructpix2pix, CLIP you can download from Huggingface.
 ### Quick test (without training)
-All you need is Q-Former checkpoint, [InstructPix2Pix](https://huggingface.co/timbrooks/instruct-pix2pix) and [CLIP-ViT-L/14](https://huggingface.co/openai/clip-vit-large-patch14)
+All you need is EmoAdapter checkpoint, [InstructPix2Pix](https://huggingface.co/timbrooks/instruct-pix2pix) and [CLIP-ViT-L/14](https://huggingface.co/openai/clip-vit-large-patch14)
 
 ## QuickStart
 Download EmoAdapter checkpoint and place it in the `checkpoint` folder.
