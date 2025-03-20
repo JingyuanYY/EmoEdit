@@ -69,18 +69,9 @@ class EmoEditDataset_MultiData(Dataset):
         example['summary'] = path.split('/')[-1].split('.')[0].split('_')[-1]
         example["emotion"] = path.split('/')[-2]
         # origin_image = Image.open(os.path.join(self.origin_data_root, f"{example['name']}.png"))
-        flag = False
-        for dir_name in ['0.1-0.2', '0.2-0.3', '0.3-0.4', '0.4-0.5', '0.5-0.6', '0.6-0.7', ]:
-            for suffix in ['jpg', 'png']:
-                origin_image_path = \
-                    os.path.join(self.origin_data_root, f"{dataset_name}_crop/{dir_name}/{example['name']}.{suffix}")
-                if os.path.isfile(origin_image_path) is True:
-                    origin_image = Image.open(origin_image_path)
-                    # origin_image = utils.crop_image(origin_image)
-                    flag = True
-                    break
-            if flag:
-                break
+        origin_image_path = \
+                os.path.join(self.origin_data_root, f"{dataset_name}_crop/{example['name']}.jpg")
+        origin_image = Image.open(origin_image_path)
         example['instruction'] = 'add ' + example['summary']
 
         # example['index'] = self.instruction_dic[example["name"]][example["emotion"]][example['summary']][1]
