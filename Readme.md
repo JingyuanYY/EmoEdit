@@ -1,4 +1,4 @@
-# EmoEdit: Evoking Emotions through Image Manipulation
+![image](https://github.com/user-attachments/assets/890b1396-624a-4af0-b23a-bd10be27c457)# EmoEdit: Evoking Emotions through Image Manipulation
 > [Jingyuan Yang](https://jingyuanyy.github.io/)<sup>1</sup>, Jiawei Feng<sup>1</sup>, Weibin Luo<sup>1</sup>, [Dani Lischinski](https://www.cs.huji.ac.il/~danix/)<sup>2</sup>
 , [Daniel Cohen-Or](https://danielcohenor.com/)<sup>3</sup>, [Hui Huang](https://vcc.tech/~huihuang)<sup>1</sup><sup>*</sup>  
 > <sup>1</sup>Shenzhen University  <sup>2</sup>The Hebrew University of Jerusalem <sup>3</sup>Tel Aviv University<br>
@@ -14,8 +14,8 @@ in viewers. Our method requires only emotion words as prompts, without necessita
 </p>
 
 ## Preliminary
-You can download EmoEditSet, EmoEdit-inference-set, EmoAdapter checkpoint in [Dropbox](https://www.dropbox.com/scl/fo/xnw0bv4r228srka6zo9ek/AIBEnZIfU2AkbZyDo0kPrBs?rlkey=r7likmbhj6ud14xoyvjxbqmo0&st=dcdwu2i2&dl=0).
-
+You can download EmoEditSet, EmoEdit_origin_image, EmoEdit-inference-set, EmoAdapter checkpoint, feature(for emotion factor trees' construction) in [Dropbox](https://www.dropbox.com/scl/fo/xnw0bv4r228srka6zo9ek/AIBEnZIfU2AkbZyDo0kPrBs?rlkey=r7likmbhj6ud14xoyvjxbqmo0&st=dcdwu2i2&dl=0).
+For training, EmoEditSet and EmoEdit_origin_image are needed. For validation, EmoEdit-inference-set is needed. For emotion factor trees, feature file is needed.
 Other models like instructpix2pix, CLIP you can download from Huggingface.
 ### Quick test (without training)
 All you need is EmoAdapter checkpoint, [InstructPix2Pix](https://huggingface.co/timbrooks/instruct-pix2pix) and [CLIP-ViT-L/14](https://huggingface.co/openai/clip-vit-large-patch14)
