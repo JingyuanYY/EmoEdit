@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/890b1396-624a-4af0-b23a-bd10be27c457)# EmoEdit: Evoking Emotions through Image Manipulation
+# EmoEdit: Evoking Emotions through Image Manipulation
 > [Jingyuan Yang](https://jingyuanyy.github.io/)<sup>1</sup>, Jiawei Feng<sup>1</sup>, Weibin Luo<sup>1</sup>, [Dani Lischinski](https://www.cs.huji.ac.il/~danix/)<sup>2</sup>
 , [Daniel Cohen-Or](https://danielcohenor.com/)<sup>3</sup>, [Hui Huang](https://vcc.tech/~huihuang)<sup>1</sup><sup>*</sup>  
 > <sup>1</sup>Shenzhen University  <sup>2</sup>The Hebrew University of Jerusalem <sup>3</sup>Tel Aviv University<br>
