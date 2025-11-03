@@ -159,10 +159,11 @@ Fig 6. Emotion adapter can be extended to stylized image generation, preserving 
 ## Citation
 If you find this work useful, please kindly cite our paper:
 ```
-@article{yang2024emoedit,
-  title={EmoEdit: Evoking Emotions through Image Manipulation},
+@inproceedings{yang2025emoedit,
+  title={Emoedit: Evoking emotions through image manipulation},
   author={Yang, Jingyuan and Feng, Jiawei and Luo, Weibin and Lischinski, Dani and Cohen-Or, Daniel and Huang, Hui},
-  journal={arXiv preprint arXiv:2405.12661},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={24690--24699},
+  year={2025}
 }
 ```
