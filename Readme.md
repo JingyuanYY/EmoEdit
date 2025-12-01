@@ -14,7 +14,7 @@ in viewers. Our method requires only emotion words as prompts, without necessita
 </p>
 
 ## Preliminary
-You can download EmoEditSet, EmoEdit_origin_image, EmoEdit-inference-set, EmoAdapter checkpoint, feature(for emotion factor trees' construction) in [Dropbox](https://www.dropbox.com/scl/fo/xnw0bv4r228srka6zo9ek/AIBEnZIfU2AkbZyDo0kPrBs?rlkey=r7likmbhj6ud14xoyvjxbqmo0&st=dcdwu2i2&dl=0).(link just break down, wait a min)
+You can download EmoEditSet, EmoEdit_origin_image, EmoEdit-inference-set, EmoAdapter checkpoint, feature(for emotion factor trees' construction) in [Dropbox](https://www.dropbox.com/scl/fo/7tggp1e6n4zczq2yxgcz0/AP89ShFyi7tlzvMs9RvPy_w?rlkey=3b9bhojqhyqd4tao84rwo2p3b&st=buldfasb&dl=0).
 
 For training, EmoEditSet and EmoEdit_origin_image are needed. For validation, EmoEdit-inference-set is needed. For emotion factor trees, feature file is needed.
 
